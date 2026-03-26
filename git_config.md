@@ -1,7 +1,7 @@
 # Git Configuration
 ## Instructions
 
-Only need to set once on a workstation.
+Only need to set this up once on a workstation.
 
 'git config --global user.name "my name"'
 
